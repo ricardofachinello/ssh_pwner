@@ -1,0 +1,7 @@
+admin
+default
+12345
+root
+password
+toor
+54321
